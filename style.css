@@ -18,3 +18,26 @@ main{
 .top-player{
     background-color: white;
 }
+.blog-items img{
+    width: 177px;
+    height: 117px;
+    margin-top: 10px;
+}
+.blog-items{
+    display: flex;
+}
+.blog-paragraph{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #000000;
+}
+.bloger{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #562EFF;
+
+}
