@@ -15,6 +15,14 @@ main{
     padding: 10px;
 
 }
+.player-name{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
 .top-player{
     background-color: white;
 }
@@ -40,4 +48,20 @@ main{
     font-size: 16px;
     color: #562EFF;
 
+}
+.courses{
+    background-color: white;
+}
+.card-text{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14.6913px;
+    line-height: 17px;
+    color: #ED6B4F;
+}
+.footer{
+    background: #FEE5DF;
+    border-radius: 14.6913px;
+    padding: 2px;
 }
